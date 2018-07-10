@@ -1,0 +1,12 @@
+{
+  "name": "node-sample-k8s",
+  "version": "0.0.1",
+  "description": "Nodejs sample @ k8s",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
